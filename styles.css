@@ -61,6 +61,10 @@ table {
   margin-right: 20px;
   background-color: rgba(227, 225, 233, 0.3);
 }
+th {
+  background-color: #0a82f7;
+  color: white;
+}
 
 #betutipus{
   font-family:'Courier New', Courier, monospace;
