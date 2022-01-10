@@ -52,6 +52,15 @@ p.imgtitle {
   text-align: center;
   line-height: 130%;
 }
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: yellow;
+  text-decoration: none;
+}
 
 table {
   border: 3px solid #0A82F7;
